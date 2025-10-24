@@ -36,7 +36,7 @@
   <div align="center">
   <h3>Entre em contato em:</h3>
   <p>
-    <a href="mailto:tiagocorreiabispo14@gmail.com" target="_blank">
+    <a href="mailto:tiago.correia.engsoft@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/tiago-correia-3a858729a/" target="_blank">
