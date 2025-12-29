@@ -6,44 +6,43 @@
 
   <br>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
 
   <br><br>
 
-  <p align="center">
-    Um desenvolvedor em formação, atualmente cursando Engenharia de Software na <strong>UNEB</strong>.<br>
-    Estou explorando o mundo da programação, com foco em lógica, algoritmos e desenvolvimento web. 🚀
-  </p>
+  Um desenvolvedor em formação, atualmente cursando Engenharia de Software na **UNEB**.<br>
+  Estou explorando o mundo da programação, com foco em lógica, algoritmos e desenvolvimento web. 🚀
 
   <br>
 
   <h3>🛠️ Tecnologias e Ferramentas</h3>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&theme=dracula" />
-  </div>
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&theme=dracula" alt="My Skills" />
+  </p>
 
-  <br><br>
+  <br>
 
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoCorreiaB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Tiago's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCorreiaB&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Langs"/>
-  </div>
-  
-  <div align="center">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoCorreiaB&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </div>
+  <h3>📊 Minhas Estatísticas</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=TiagoCorreiaB&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCorreiaB&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  </p>
 
-  <br><br>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoCorreiaB&theme=dracula&hide_border=true" alt="Streak" />
+  </p>
+
+  <br>
 
   <h3>📫 Entre em contato</h3>
-  <p>
-    <a href="mailto:tiago.correia.engsoft@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/tiago-correia-3a858729a/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
+  <a href="mailto:tiago.correia.engsoft@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tiago-correia-3a858729a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/TiagoCorreiaB">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
 </div>
