@@ -17,19 +17,19 @@
 
   <h3>🛠️ Tecnologias e Ferramentas</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&theme=dracula" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&theme=dracula&v=1" alt="My Skills" />
   </p>
 
   <br>
 
   <h3>📊 Minhas Estatísticas</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=TiagoCorreiaB&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCorreiaB&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TiagoCorreiaB&show_icons=true&theme=dracula&hide_border=true&cache=bust" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCorreiaB&layout=compact&theme=dracula&hide_border=true&cache=bust" alt="Top Langs" />
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoCorreiaB&theme=dracula&hide_border=true" alt="Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoCorreiaB&theme=dracula&hide_border=true&cache=bust" alt="Streak" />
   </p>
 
   <br>
