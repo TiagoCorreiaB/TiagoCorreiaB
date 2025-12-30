@@ -1,48 +1,45 @@
 <div align="center">
 
+  <h1>🚀 Tiago Correia</h1>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B392F0&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Tiago!;Dev+em+forma%C3%A7%C3%A3o+na+UNEB;Apaixonado+por+tecnologia" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&color=3776AB&center=true&vCenter=true&width=600&lines=Engenharia+de+Software+%7C+UNEB;Aprendendo+para+arquitetar+solu%C3%A7%C3%B5es+eficientes;Construindo+o+futuro%2C+linha+por+linha+de+c%C3%B3digo" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
-
-  <br><br>
-
-  Um desenvolvedor em formação, atualmente cursando Engenharia de Software na **UNEB**.<br>
-  Estou explorando o mundo da programação, com foco em lógica, algoritmos e desenvolvimento web. 🚀
-
-  <br>
-
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&theme=dracula&v=1" alt="My Skills" />
+   <em>"Não é apenas código, é a engenharia da minha própria evolução."</em> 🚀
+  </p>
+
+
+  <h2>👨‍💻 Tecnológias </h2>
+  
+  <p>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
+
+
+  <h2>📫 Contatos</h2>
+  <p>
+    <a href="mailto:tiago.correia.engsoft@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/tiago-correia-3a858729a/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/TiagoCorreiaB">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
   </p>
 
   <br>
-
-  <h3>📊 Minhas Estatísticas</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=TiagoCorreiaB&show_icons=true&theme=dracula&hide_border=true&cache=bust" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCorreiaB&layout=compact&theme=dracula&hide_border=true&cache=bust" alt="Top Langs" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoCorreiaB&theme=dracula&hide_border=true&cache=bust" alt="Streak" />
-  </p>
-
-  <br>
-
-  <h3>📫 Entre em contato</h3>
-  <a href="mailto:tiago.correia.engsoft@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tiago-correia-3a858729a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/TiagoCorreiaB">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=60&section=footer" width="100%"/>
 
 </div>
