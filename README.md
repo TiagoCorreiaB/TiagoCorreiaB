@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🚀 Tiago Correia</h1>
+<h1>Tiago Correia</h1>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&color=3776AB&center=true&vCenter=true&width=600&lines=Engenharia+de+Software+%7C+UNEB;Aprendendo+para+arquitetar+solu%C3%A7%C3%B5es+eficientes;Construindo+o+futuro%2C+linha+por+linha+de+c%C3%B3digo" />
