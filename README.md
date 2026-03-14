@@ -17,8 +17,8 @@
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 <ul>
-<li>🎓 Graduando em <strong>Sistemas de Informação</strong> - UNEB</li>
-<li>💻 Focado em <strong>Back-End e Engenharia de Software</strong></li>
+<li>🎓 Graduando em <strong>Engenharia de Software</strong> - UNEB</li>
+<li>💻 Focado em <strong>Back-End</strong></li>
 <li>📚 Aprendendo lógica, algoritmos e arquitetura de software</li>
 </ul>
 
