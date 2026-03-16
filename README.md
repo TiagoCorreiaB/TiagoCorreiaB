@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Header.png" alt="Banner do Projeto" width="100%">
-</p>
-
 <div align="center">
 
 <h1>Tiago Correia</h1>
