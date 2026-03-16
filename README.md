@@ -7,7 +7,7 @@
 </a>
 
 <p>
-<em>"Não é apenas código, é a engenharia da minha própria evolução."</em> 
+<em>"O sucesso é a soma de pequenos esforços repetidos dia sim, e no outro dia também." <br> — Robert Collier</em> 
 </p>
 
 </div>
@@ -41,19 +41,19 @@
 
 <h2 align="left">📫 Contatos</h2>
 
-<p>
-<a href="mailto:tiago.correia.engsoft@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tiago-correia-3a858729a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TiagoCorreiaB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<div align="center">
+  <a href="mailto:tiago.correia.engsoft@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" width="120">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/tiago-correia-3a858729a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" width="120">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TiagoCorreiaB" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="120">
+  </a>
+</div>
 
 ---
 
