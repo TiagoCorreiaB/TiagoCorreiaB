@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/-Gmail-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" width="120">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/tiago-correia-3a858729a" target="_blank">
+  <a href="https://www.linkedin.com/in/tiago-correia-3a858729a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" width="120">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
